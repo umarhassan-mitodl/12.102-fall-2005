@@ -1,0 +1,58 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Environmental Science"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Planetary Science"
+    ]
+  ],
+  "legacy_uid": "74d1db2d-98a2-6e3b-7210-d1124b6e2f6a",
+  "instructors": {
+    "content": [
+      "b1852a0f-3460-1088-5a56-c4bd52aac17f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "ba5db8a6-258d-44fc-b3f6-7324e9a44d07",
+    "website": "12-102-environmental-earth-science-fall-2005"
+  },
+  "course_title": "Environmental Earth Science",
+  "course_description": "The geologic record demonstrates that our environment has changed over a variety of time scales from seconds to billions of years. This course explores the many ways in which geologic processes control and modify the Earth's environment and serves as an introduction to Environmental Earth Science Field Course (12.120), which addresses field applications of these principles in the American Southwest.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.102",
+  "course_image_thumbnail": {
+    "content": "f845b5b7-1c9a-0020-830b-1149b63d21a6",
+    "website": "12-102-environmental-earth-science-fall-2005"
+  },
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "site_uid": "74333004-ab62-4773-921d-87995cd0be43",
+  "site_short_id": "12.102-fall-2005",
+  "site_url_path": "courses/12-102-environmental-earth-science-fall-2005",
+  "title": "Course Metadata"
+}
