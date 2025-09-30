@@ -5,6 +5,8 @@ description: This resource talks about Geologic time and rates of geologic proce
 file: /courses/12-102-environmental-earth-science-fall-2005/1fb8a315eb35606af172e10085d0956b_ps_2_time.pdf
 file_size: 352711
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

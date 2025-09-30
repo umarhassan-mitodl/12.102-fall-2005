@@ -4,6 +4,8 @@ description: This resource contains the Physical properties of minerals and rock
 file: /courses/12-102-environmental-earth-science-fall-2005/c85725859f5cf487b72db0f5d0ec7228_rocks_minerals.pdf
 file_size: 82584
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

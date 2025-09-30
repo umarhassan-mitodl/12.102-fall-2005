@@ -5,6 +5,8 @@ description: This resource contains the concept of Sulfogenic aerosols, The carb
 file: /courses/12-102-environmental-earth-science-fall-2005/cfa8acb8dfadc361d9eed0faa7977f61_extracredit_pset.pdf
 file_size: 66733
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

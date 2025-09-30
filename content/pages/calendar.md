@@ -2,6 +2,8 @@
 content_type: page
 description: The calendar section contains three column table with headings as week
   number, topics, and key dates related to the topic.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

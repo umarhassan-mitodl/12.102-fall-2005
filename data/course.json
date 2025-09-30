@@ -38,6 +38,7 @@
     "website": "12-102-environmental-earth-science-fall-2005"
   },
   "course_title": "Environmental Earth Science",
+  "hide_download": true,
   "course_description": "The geologic record demonstrates that our environment has changed over a variety of time scales from seconds to billions of years. This course explores the many ways in which geologic processes control and modify the Earth's environment and serves as an introduction to Environmental Earth Science Field Course (12.120), which addresses field applications of these principles in the American Southwest.\n",
   "department_numbers": [
     "12"
@@ -48,6 +49,7 @@
     "content": "f845b5b7-1c9a-0020-830b-1149b63d21a6",
     "website": "12-102-environmental-earth-science-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets"
   ],
